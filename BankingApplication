@@ -7,7 +7,7 @@ public class BankingApplication {
 		BankAccount obj1 = new BankAccount("Shiva kalyan", "XC7890");
 		obj1.showMenu();
     }
-}
+} 
 
 class BankAccount
 {
